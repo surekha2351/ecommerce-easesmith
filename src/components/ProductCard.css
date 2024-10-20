@@ -1,0 +1,10 @@
+/* Inside ProductCard.css */
+.modal {
+    display: none;
+    /* Add modal CSS from above */
+  }
+  
+  .modal.active {
+    display: block;
+  }
+  
